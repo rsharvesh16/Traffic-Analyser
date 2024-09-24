@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+matplotlib
+boto3
+seaborn
+python-dotenv
+overpy
+osmnx
+folium
+streamlit_folium
+plotly
